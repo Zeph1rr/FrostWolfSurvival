@@ -8,7 +8,7 @@ Rogue like survival game
 <p align="center">
     <img src="https://img.shields.io/badge/Engine-2022.3.33f1-blueviolet" alt="Unity Version">
     <img src="https://img.shields.io/badge/Version-0.0.1-blue" alt="Game Version">
-    <img src="https://img.shields.io/badge/License-MIT-success" alt="License">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/Zeph1rr/FrostWolfSurvival">
 </p>
 
 ## About
